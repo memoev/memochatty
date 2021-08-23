@@ -1,4 +1,4 @@
-const socket = new WebSocket('ws://memochatty.herokuapp.com//ws');
+const socket = new WebSocket('wss://memochatty.herokuapp.com//ws');
 
 const establishNewConnection = () => {
     // Connection opened
