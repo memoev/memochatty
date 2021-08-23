@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/memochatty/static/css/main.a617e044.chunk.css",
-    "main.js": "/memochatty/static/js/main.08af6c5c.chunk.js",
-    "main.js.map": "/memochatty/static/js/main.08af6c5c.chunk.js.map",
+    "main.js": "/memochatty/static/js/main.8b48c6e0.chunk.js",
+    "main.js.map": "/memochatty/static/js/main.8b48c6e0.chunk.js.map",
     "runtime-main.js": "/memochatty/static/js/runtime-main.246e0d47.js",
     "runtime-main.js.map": "/memochatty/static/js/runtime-main.246e0d47.js.map",
     "static/css/2.1e874d5c.chunk.css": "/memochatty/static/css/2.1e874d5c.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.1e874d5c.chunk.css",
     "static/js/2.f231b9df.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.08af6c5c.chunk.js"
+    "static/js/main.8b48c6e0.chunk.js"
   ]
 }
